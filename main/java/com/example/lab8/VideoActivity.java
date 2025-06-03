@@ -1,4 +1,4 @@
-package com.example.lab8; // Замените на ваш пакет
+package com.example.lab8; 
 
 import android.content.Context;
 import android.media.AudioManager;
