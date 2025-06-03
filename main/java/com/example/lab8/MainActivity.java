@@ -1,4 +1,4 @@
-package com.example.lab8; // Замените на ваш пакет
+package com.example.lab8;
 
 import android.media.MediaPlayer;
 import android.os.Bundle;
